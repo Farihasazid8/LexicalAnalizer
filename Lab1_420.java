@@ -139,7 +139,7 @@ public class Lab1_420 {
     }
     System.out.println();
     System.out.print("Others ");
-    for(int i =0;i<o;i++){
+    for(int i =0;i<0;i++){
         System.out.print(others[i]+" ");
     }
     System.out.println();
